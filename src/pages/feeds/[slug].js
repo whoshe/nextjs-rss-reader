@@ -4,7 +4,9 @@ import { format } from "date-fns";
 export default function Feed({ feed, items }) {
   return (
     <div className="px-6 py-12 max-w-xl mx-auto">
-      <h1 className="font-bold text-5xl mb-12">{feed.title}</h1>
+      {/** 피드 제목 숨기기
+       * <h1 className="font-bold text-5xl mb-12">{feed.title}</h1>
+       * */}
       <div className="space-y-4">
         {items.map((item) => (
           <a
