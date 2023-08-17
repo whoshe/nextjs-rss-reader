@@ -3,12 +3,12 @@ import Parser from "rss-parser";
 export const FEEDS = [
   {
     slug: "google-news",
-    title: "구글 뉴스",
+    title: "지역화폐 뉴스",
     url: "https://news.google.com/rss/search?q=지역화폐&ceid=KR:ko&hl=ko&gl=KR",
   },
   {
     slug: "bookshopmap-blog",
-    title: "오늘의동네서점",
+    title: "오늘의동네서점 블로그",
     url: "https://blog.bookshopmap.com/rss",
   },
 ];

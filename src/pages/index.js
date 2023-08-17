@@ -9,7 +9,7 @@ export default function Home() {
   return (
     <main className={`${inter.className}`}>
       <div className="px-6 py-12 max-w-xl mx-auto">
-        <h1 className="font-bold text-5xl mb-12">코드포코리아 RSS 피드 리더</h1>
+        <h1 className="font-bold text-5xl mb-12">코드포코리아 RSS 리더</h1>
         <div className="grid grid-cols-2 gap-4">
           {FEEDS.map((feed) => (
             <Link

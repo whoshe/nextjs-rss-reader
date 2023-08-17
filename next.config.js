@@ -1,11 +1,13 @@
 /** @type {import('next').NextConfig} */
 
+const debug = process.env.NODE_ENV !== "production";
+const repository = "nextjs-rss-reader";
+
 const nextConfig = {
   swcMinify: true,
   compiler: {
     styledComponents: true,
   },
-  basePath: "/nextjs-rss-reader",
   reactStrictMode: true,
 };
 
