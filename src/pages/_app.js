@@ -4,7 +4,7 @@ import { DefaultSeo } from "next-seo";
 const DEFAULT_SEO = {
   title: "코드포코리아 RSS 리더",
   description:
-    "뉴스 또는 블로그의 RSS 피드를 추가해보세요. 웹페이지에 최신 기사 목록을  삽입할 수 있어요.",
+    "시빅해킹 프로젝트를 위한 뉴스 또는 블로그의 RSS 피드 모음입니다.",
   canonical: "https://www.carrotins.com",
   openGraph: {
     type: "website",
