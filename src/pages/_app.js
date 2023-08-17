@@ -14,7 +14,7 @@ const DEFAULT_SEO = {
     site_name: "코드포코리아",
     images: [
       {
-        url: "/img/codeforkr-cover.jpg",
+        url: "/nextjs-rss-reader/img/codeforkr-cover.jpg",
         width: 700,
         height: 525,
         alt: "코드포코리아 대표이미지",
