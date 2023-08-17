@@ -7,9 +7,9 @@ export const FEEDS = [
     url: "https://news.google.com/rss/search?q=지역화폐&ceid=KR:ko&hl=ko&gl=KR",
   },
   {
-    slug: "vercel-blog",
-    title: "버셀 블로그",
-    url: "https://vercel.com/atom",
+    slug: "bookshopmap-blog",
+    title: "오늘의동네서점",
+    url: "https://blog.bookshopmap.com/rss",
   },
 ];
 
