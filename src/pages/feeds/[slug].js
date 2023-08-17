@@ -1,5 +1,6 @@
 import { FEEDS, getFeed } from "@/lib/rss";
 import { format } from "date-fns";
+import Loading from './loading';
 
 export default function Feed({ feed, items }) {
   return (
