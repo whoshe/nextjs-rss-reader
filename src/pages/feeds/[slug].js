@@ -42,6 +42,6 @@ export async function getStaticProps({ params }) {
       feed,
       items: detailedFeed.items,
     },
-    revalidate: 10,
+    revalidate: 60,
   };
 }
