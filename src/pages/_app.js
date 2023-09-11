@@ -9,7 +9,7 @@ const DEFAULT_SEO = {
   title: "코드포코리아 RSS 리더",
   description:
     "시빅해킹 프로젝트를 위한 뉴스 또는 블로그의 RSS 피드 모음입니다.",
-  canonical: "https://www.carrotins.com",
+  canonical: "https://www.codefor.kr",
   openGraph: {
     type: "website",
     locale: "ko_KR",
