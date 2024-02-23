@@ -3,8 +3,8 @@ import Parser from "rss-parser";
 export const FEEDS = [
   {
     slug: "google-news",
-    title: "지역화폐 뉴스",
-    url: "https://news.google.com/rss/search?q=지역화폐&ceid=KR:ko&hl=ko&gl=KR",
+    title: "지역사랑상품권 또는 지역화폐 뉴스",
+    url: "https://news.google.com/rss/search?q=지역사랑상품권 OR 지역화폐&ceid=KR:ko&hl=ko&gl=KR",
   },
   {
     slug: "bookshopmap-blog",
