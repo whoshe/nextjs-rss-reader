@@ -14,7 +14,7 @@ export const FEEDS = [
   {
     slug: 'bookshopmap-news',
     title: '동네서점지도 뉴스 기사',
-    url: 'https://news.google.com/rss/search?q=주식회사 동네서점 OR 동네서점지도&ceid=KR:ko&hl=ko&gl=KR',
+    url: 'https://news.google.com/rss/search?q=동네서점지도&ceid=KR:ko&hl=ko&gl=KR',
   },
 ]
 
